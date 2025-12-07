@@ -1,16 +1,23 @@
+# 🚀 Z3RO Launcher
 
-⚡ To initialize:
-> Run **modules.bat**
+To start **Z3RO**, simply run:
 
-─────────────────────────────────
+➡️ **modules.bat**
 
-💀 Need assistance?
-Join the Discord:
-🔗 https://discord.gg/xXsY2qNgVa
+---
 
-─────────────────────────────────
+## 💬 Need Help?
 
-👥 Dev Team
-• Main Dev: **f1je**
-• Co-Dev: **osi**
-  > Special thanks for crucial contributions.
+Join our community:
+
+🔗 Discord: https://discord.gg/xXsY2qNgVa  
+🔗 Website: https://t.me/copzero
+
+---
+
+## 👤 Developers
+
+- **@main-dev** — f1je  
+- **@co-dev** — osi  
+
+Special thanks to **osi** for the major help on development 💙
