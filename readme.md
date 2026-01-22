@@ -1,8 +1,8 @@
-# 🚀 Z3RO Launcher
+# 💻 SilentOS
 
 To start **Z3RO**, simply run:
 
-➡️ **modules.bat**
+➡️ **bootstrap.bat**
 
 ---
 
@@ -10,8 +10,8 @@ To start **Z3RO**, simply run:
 
 Join our community:
 
-🔗 Discord: https://discord.gg/xXsY2qNgVa  
-🔗 Website: https://t.me/copzero
+🔗 Discord: gg/CG39qhQ7pS
+🔗 Telegram: https://t.me/copsilent
 
 ---
 
