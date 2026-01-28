@@ -1,8 +1,8 @@
-# 💻 SilentOS
+# 🐇 Bunnyx
 
-To start **SilentOS**, simply run:
+To start **Bunnyx**, simply run:
 
-➡️ **bootstrap.bat**
+➡️ **login.exe**
 
 ---
 
@@ -10,14 +10,14 @@ To start **SilentOS**, simply run:
 
 Join our community:
 
-🔗 Discord: gg/CG39qhQ7pS
-🔗 Telegram: https://t.me/copsilent
+🔗 [Discord](https://discord.gg/6xHvXcJJRh)
+🔗 [Telegram](https://t.me/copbunnyx)
 
 ---
 
 ## 👤 Developers
 
-- **@main-dev** — f1je  
-- **@co-dev** — osi  
+- **main-dev** — f1je  
+- **co-dev** — corax 
 
-Special thanks to **osi** for the major help on development 💙
+Special thanks to **corax** for the major help on development 💙
